@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.10\Programmation conditionnelle EXERCICE 2.10\main.cpp(29,11): warning C4244:  '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.10\Programmation conditionnelle EXERCICE 2.10\main.cpp(30,9): warning C4244:  'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.10\Programmation conditionnelle EXERCICE 2.10\main.cpp(35,11): warning C4244:  '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.10\Programmation conditionnelle EXERCICE 2.10\main.cpp(36,9): warning C4244:  'return' : conversion de 'int' en 'float', perte possible de données
+  Programmation conditionnelle EXERCICE 2.10.vcxproj -> C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.10\Debug\Programmation conditionnelle EXERCICE 2.10.exe

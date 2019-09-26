@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.3\Programmation conditionnelle EXERCICE 2.3\main.cpp(18,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.3\Programmation conditionnelle EXERCICE 2.3\main.cpp(24,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.3\Programmation conditionnelle EXERCICE 2.3\main.cpp(30,15): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Programmation conditionnelle EXERCICE 2.3.vcxproj -> C:\Users\Solange\source\repos\SAE Institute\Programmation conditionnelle\Programmation conditionnelle EXERCICE 2.3\Debug\Programmation conditionnelle EXERCICE 2.3.exe
